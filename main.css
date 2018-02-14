@@ -1,0 +1,39 @@
+.gbac, .pagination, 
+.cont-pagination-wrapper, 
+.training_box_wrapper, .comp_logo {
+    display: none;
+}
+
+a {
+    color: #7c65b5;
+    text-decoration: none;
+}
+
+.col-md-12 {
+    padding: 20px;
+    border: 1px solid #4b70d0;
+    margin: 10px;
+}
+
+.comp-name-text {
+    font-size: 23px;
+    margin-bottom: 5px;
+}
+
+.edu-text div,
+.exp-text div,
+.dead-text div {
+    display: inline-block;
+}
+
+.jobs {
+    width: 70%;
+    margin: auto;
+}
+
+._____C {
+    padding: 10px;
+    padding-bottom: 0px;
+    color: #888;
+    text-align: right;
+}

@@ -1,0 +1,2062 @@
+
+<script type="text/javascript">
+var reloadaction = 0
+function actionclose()
+{
+	//alert(reloadaction)
+	if (reloadaction == 1)
+	{
+		window.location.reload()
+	}
+}
+</script>
+
+
+<div class="boxed">
+
+    <div class="row">
+
+        
+        <div class="col-sm-12">
+
+            <div class="cont-pagination-wrapper">
+                <div class="row">
+                    <div class="col-sm-6">
+                        Click at the job title to view details
+                    </div>
+                    <div class="col-sm-6">
+                        <div class="topr-pagination-div">
+                            <div style="float:left; margin:2px 0px 0px 0px;">Jobs per page&nbsp;</div>
+                            <div style="float:left;">
+                                <select  class="form-control" id="cmbjobsPerPage" name="cmbjobsPerPage" onchange="setPerpageRecord(this.value);">
+        	<option  value="10" >10</option>
+            <option  value="20" >20</option>
+            <option  value="30" >30</option>
+            <option selected value="40" >40</option>
+        </select>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        
+        
+        <div class="col-md-12">
+            <div class="norm-jobs-wrapper" onclick="DivOpen('id=752375&fcatId=8&ln=1');">
+                <div class="row">
+
+                    <div class="col-sm-3 col-sm-push-3">
+                        <!--<div class="row">
+                                <div class="col-sm-12">
+                                    <div class="comp_logo"><img src="images/38951.jpg" alt=""></div>
+                                </div>
+                            </div>-->
+                            
+                            
+                    </div>
+                    <div class="col-sm-9 col-sm-pull-9">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="comp-name-text">TMSS Engineering College</div>
+                            </div>
+                            <div class="col-sm-12">
+                                <div class="job-title-text">
+                                    <a onclick="clickJObTitle()" target="_blank" href="jobdetails.asp?id=752375&fcatId=8&ln=1">
+                                        Assistant Professor (CSE)
+                                    </a>
+                                </div>
+                            </div>
+                            
+                             
+                            <div class="col-sm-12">
+                                <div class="edu-text">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="edu-text-s">
+                                                Education:
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-10">
+                                            <div class="edu-text-d">
+                                                B.Sc in CSE and M.Sc in relevant discipline from any reputed University
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            
+                        </div>
+                    </div>
+                    <div class="col-sm-12">
+                        <div class="row">
+                            <div class="col-sm-9">
+                                <div class="exp-text">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="exp-text-s">Experience:</div>
+                                        </div>
+                                        <div class="col-sm-10">
+                                            <div class="exp-text-d">
+                                                At most 3 year(s)
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="dead-text">
+                                    <div class="dead-text-s">Deadline:&nbsp;</div>
+                                    <div class="dead-text-d">
+                                        <strong>Mar 4, </strong>2018
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div class="col-md-12">
+            <div class="norm-jobs-wrapper" onclick="DivOpen('id=752379&fcatId=8&ln=1');">
+                <div class="row">
+
+                    <div class="col-sm-3 col-sm-push-3">
+                        <!--<div class="row">
+                                <div class="col-sm-12">
+                                    <div class="comp_logo"><img src="images/38951.jpg" alt=""></div>
+                                </div>
+                            </div>-->
+                            
+                            
+                    </div>
+                    <div class="col-sm-9 col-sm-pull-9">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="comp-name-text">TMSS Engineering College</div>
+                            </div>
+                            <div class="col-sm-12">
+                                <div class="job-title-text">
+                                    <a onclick="clickJObTitle()" target="_blank" href="jobdetails.asp?id=752379&fcatId=8&ln=1">
+                                        Lecturer (CSE)
+                                    </a>
+                                </div>
+                            </div>
+                            
+                             
+                            <div class="col-sm-12">
+                                <div class="edu-text">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="edu-text-s">
+                                                Education:
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-10">
+                                            <div class="edu-text-d">
+                                                B.Sc in CSE from any reputed University with a strong academic background having a minimum CGPA not ...
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            
+                        </div>
+                    </div>
+                    <div class="col-sm-12">
+                        <div class="row">
+                            <div class="col-sm-9">
+                                <div class="exp-text">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="exp-text-s">Experience:</div>
+                                        </div>
+                                        <div class="col-sm-10">
+                                            <div class="exp-text-d">
+                                                Na
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="dead-text">
+                                    <div class="dead-text-s">Deadline:&nbsp;</div>
+                                    <div class="dead-text-d">
+                                        <strong>Mar 4, </strong>2018
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div class="col-md-12">
+            <div class="norm-jobs-wrapper" onclick="DivOpen('id=752304&fcatId=8&ln=1');">
+                <div class="row">
+
+                    <div class="col-sm-3 col-sm-push-3">
+                        <!--<div class="row">
+                                <div class="col-sm-12">
+                                    <div class="comp_logo"><img src="images/38951.jpg" alt=""></div>
+                                </div>
+                            </div>-->
+                            
+                            
+                    </div>
+                    <div class="col-sm-9 col-sm-pull-9">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="comp-name-text">Korea MTS Ltd.</div>
+                            </div>
+                            <div class="col-sm-12">
+                                <div class="job-title-text">
+                                    <a onclick="clickJObTitle()" target="_blank" href="jobdetails.asp?id=752304&fcatId=8&ln=1">
+                                        PHP Developer/ Web Developer (Wordpress)
+                                    </a>
+                                </div>
+                            </div>
+                            
+                             
+                            <div class="col-sm-12">
+                                <div class="edu-text">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="edu-text-s">
+                                                Education:
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-10">
+                                            <div class="edu-text-d">
+                                                CSE Graduates preferable but Graduation from other background with experience can apply as well.
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            
+                        </div>
+                    </div>
+                    <div class="col-sm-12">
+                        <div class="row">
+                            <div class="col-sm-9">
+                                <div class="exp-text">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="exp-text-s">Experience:</div>
+                                        </div>
+                                        <div class="col-sm-10">
+                                            <div class="exp-text-d">
+                                                1 to 2 year(s)
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="dead-text">
+                                    <div class="dead-text-s">Deadline:&nbsp;</div>
+                                    <div class="dead-text-d">
+                                        <strong>Mar 15, </strong>2018
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div class="col-md-12">
+            <div class="norm-jobs-wrapper" onclick="DivOpen('id=752050&fcatId=8&ln=1');">
+                <div class="row">
+
+                    <div class="col-sm-3 col-sm-push-3">
+                        <!--<div class="row">
+                                <div class="col-sm-12">
+                                    <div class="comp_logo"><img src="images/38951.jpg" alt=""></div>
+                                </div>
+                            </div>-->
+                            
+                            
+                    </div>
+                    <div class="col-sm-9 col-sm-pull-9">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="comp-name-text">Centre for Quality Solution</div>
+                            </div>
+                            <div class="col-sm-12">
+                                <div class="job-title-text">
+                                    <a onclick="clickJObTitle()" target="_blank" href="jobdetails.asp?id=752050&fcatId=8&ln=1">
+                                        Trainee Consultant, Compliance & ISO Certifications
+                                    </a>
+                                </div>
+                            </div>
+                            
+                             
+                            <div class="col-sm-12">
+                                <div class="edu-text">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="edu-text-s">
+                                                Education:
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-10">
+                                            <div class="edu-text-d">
+                                                <ul><LI>Preferable Bachelor Degree in Science and Engineering.</LI><LI>Arts and Commerce will be preferred based ...</LI></ul>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            
+                        </div>
+                    </div>
+                    <div class="col-sm-12">
+                        <div class="row">
+                            <div class="col-sm-9">
+                                <div class="exp-text">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="exp-text-s">Experience:</div>
+                                        </div>
+                                        <div class="col-sm-10">
+                                            <div class="exp-text-d">
+                                                Na
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="dead-text">
+                                    <div class="dead-text-s">Deadline:&nbsp;</div>
+                                    <div class="dead-text-d">
+                                        <strong>Mar 13, </strong>2018
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div class="col-md-12">
+            <div class="sout-jobs-wrapper" onclick="DivOpen('id=752340&fcatId=8&ln=3');">
+                <div class="row">
+
+                    <div class="col-sm-3 col-sm-push-3">
+                        <!--<div class="row">
+                                <div class="col-sm-12">
+                                    <div class="comp_logo"><img src="images/38951.jpg" alt=""></div>
+                                </div>
+                            </div>-->
+                            
+                            
+                                <div class="row">
+                                    <div class="col-sm-12">
+                                        <div class="comp_logo"><img src="http://corporate.bdjobs.com/logos/37086.jpg" alt=""></div>
+                                    </div>
+                                </div>
+                                       
+								
+                    </div>
+                    <div class="col-sm-9 col-sm-pull-9">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="comp-name-text">Hearts Bangladesh</div>
+                            </div>
+                            <div class="col-sm-12">
+                                <div class="job-title-text">
+                                    <a onclick="clickJObTitle()" target="_blank" href="jobdetails.asp?id=752340&fcatId=8&ln=3">
+                                        Graphic Designer
+                                    </a>
+                                </div>
+                            </div>
+                            
+                             
+                            <div class="col-sm-12">
+                                <div class="edu-text">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="edu-text-s">
+                                                Education:
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-10">
+                                            <div class="edu-text-d">
+                                                Minimum HSC or equal.
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            
+                        </div>
+                    </div>
+                    <div class="col-sm-12">
+                        <div class="row">
+                            <div class="col-sm-9">
+                                <div class="exp-text">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="exp-text-s">Experience:</div>
+                                        </div>
+                                        <div class="col-sm-10">
+                                            <div class="exp-text-d">
+                                                At least 6 year(s)
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="dead-text">
+                                    <div class="dead-text-s">Deadline:&nbsp;</div>
+                                    <div class="dead-text-d">
+                                        <strong>Feb 28, </strong>2018
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div class="col-md-12">
+            <div class="norm-jobs-wrapper" onclick="DivOpen('id=752334&fcatId=8&ln=3');">
+                <div class="row">
+
+                    <div class="col-sm-3 col-sm-push-3">
+                        <!--<div class="row">
+                                <div class="col-sm-12">
+                                    <div class="comp_logo"><img src="images/38951.jpg" alt=""></div>
+                                </div>
+                            </div>-->
+                            
+                            
+                    </div>
+                    <div class="col-sm-9 col-sm-pull-9">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="comp-name-text">Woman`s World Ltd.</div>
+                            </div>
+                            <div class="col-sm-12">
+                                <div class="job-title-text">
+                                    <a onclick="clickJObTitle()" target="_blank" href="jobdetails.asp?id=752334&fcatId=8&ln=3">
+                                        IT Manager (Male)
+                                    </a>
+                                </div>
+                            </div>
+                            
+                             
+                            <div class="col-sm-12">
+                                <div class="edu-text">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="edu-text-s">
+                                                Education:
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-10">
+                                            <div class="edu-text-d">
+                                                Graduate/ Masters in Computer Science or relevant field from any reputed company
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            
+                        </div>
+                    </div>
+                    <div class="col-sm-12">
+                        <div class="row">
+                            <div class="col-sm-9">
+                                <div class="exp-text">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="exp-text-s">Experience:</div>
+                                        </div>
+                                        <div class="col-sm-10">
+                                            <div class="exp-text-d">
+                                                5 to 8 year(s)
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="dead-text">
+                                    <div class="dead-text-s">Deadline:&nbsp;</div>
+                                    <div class="dead-text-d">
+                                        <strong>Mar 15, </strong>2018
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div class="col-md-12">
+            <div class="norm-jobs-wrapper" onclick="DivOpen('id=752135&fcatId=8&ln=1');">
+                <div class="row">
+
+                    <div class="col-sm-3 col-sm-push-3">
+                        <!--<div class="row">
+                                <div class="col-sm-12">
+                                    <div class="comp_logo"><img src="images/38951.jpg" alt=""></div>
+                                </div>
+                            </div>-->
+                            
+                            
+                    </div>
+                    <div class="col-sm-9 col-sm-pull-9">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="comp-name-text">Rapid Web Services</div>
+                            </div>
+                            <div class="col-sm-12">
+                                <div class="job-title-text">
+                                    <a onclick="clickJObTitle()" target="_blank" href="jobdetails.asp?id=752135&fcatId=8&ln=1">
+                                        Full Stack Software Engineer (Node Js)
+                                    </a>
+                                </div>
+                            </div>
+                            
+                             
+                            <div class="col-sm-12">
+                                <div class="edu-text">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="edu-text-s">
+                                                Education:
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-10">
+                                            <div class="edu-text-d">
+                                                <ul><LI>B.Sc in Computer Science or equivalent degree</LI><LI>Educational qualifications requirements will be ...</LI></ul>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            
+                        </div>
+                    </div>
+                    <div class="col-sm-12">
+                        <div class="row">
+                            <div class="col-sm-9">
+                                <div class="exp-text">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="exp-text-s">Experience:</div>
+                                        </div>
+                                        <div class="col-sm-10">
+                                            <div class="exp-text-d">
+                                                1 to 3 year(s)
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="dead-text">
+                                    <div class="dead-text-s">Deadline:&nbsp;</div>
+                                    <div class="dead-text-d">
+                                        <strong>Mar 14, </strong>2018
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div class="col-md-12">
+            <div class="norm-jobs-wrapper" onclick="DivOpen('id=751813&fcatId=8&ln=1');">
+                <div class="row">
+
+                    <div class="col-sm-3 col-sm-push-3">
+                        <!--<div class="row">
+                                <div class="col-sm-12">
+                                    <div class="comp_logo"><img src="images/38951.jpg" alt=""></div>
+                                </div>
+                            </div>-->
+                            
+                            
+                    </div>
+                    <div class="col-sm-9 col-sm-pull-9">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="comp-name-text">A Well Renowned IT Firm</div>
+                            </div>
+                            <div class="col-sm-12">
+                                <div class="job-title-text">
+                                    <a onclick="clickJObTitle()" target="_blank" href="jobdetails.asp?id=751813&fcatId=8&ln=1">
+                                        Software Engineer
+                                    </a>
+                                </div>
+                            </div>
+                            
+                             
+                            <div class="col-sm-12">
+                                <div class="edu-text">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="edu-text-s">
+                                                Education:
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-10">
+                                            <div class="edu-text-d">
+                                                <ul><LI>Minimum BSC in Computer Science, CSE, IT</LI><LI>Educational qualification can be relaxed for ...</LI></ul>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            
+                        </div>
+                    </div>
+                    <div class="col-sm-12">
+                        <div class="row">
+                            <div class="col-sm-9">
+                                <div class="exp-text">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="exp-text-s">Experience:</div>
+                                        </div>
+                                        <div class="col-sm-10">
+                                            <div class="exp-text-d">
+                                                1 to 3 year(s)
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="dead-text">
+                                    <div class="dead-text-s">Deadline:&nbsp;</div>
+                                    <div class="dead-text-d">
+                                        <strong>Feb 28, </strong>2018
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div class="col-md-12">
+            <div class="norm-jobs-wrapper" onclick="DivOpen('id=752249&fcatId=8&ln=1');">
+                <div class="row">
+
+                    <div class="col-sm-3 col-sm-push-3">
+                        <!--<div class="row">
+                                <div class="col-sm-12">
+                                    <div class="comp_logo"><img src="images/38951.jpg" alt=""></div>
+                                </div>
+                            </div>-->
+                            
+                            
+                    </div>
+                    <div class="col-sm-9 col-sm-pull-9">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="comp-name-text">Saffron Corporation Ltd.</div>
+                            </div>
+                            <div class="col-sm-12">
+                                <div class="job-title-text">
+                                    <a onclick="clickJObTitle()" target="_blank" href="jobdetails.asp?id=752249&fcatId=8&ln=1">
+                                        Software Developer (ASP.NET)
+                                    </a>
+                                </div>
+                            </div>
+                            
+                             
+                            <div class="col-sm-12">
+                                <div class="edu-text">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="edu-text-s">
+                                                Education:
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-10">
+                                            <div class="edu-text-d">
+                                                B.Sc or M.Sc in Computer Science and Engineering
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            
+                        </div>
+                    </div>
+                    <div class="col-sm-12">
+                        <div class="row">
+                            <div class="col-sm-9">
+                                <div class="exp-text">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="exp-text-s">Experience:</div>
+                                        </div>
+                                        <div class="col-sm-10">
+                                            <div class="exp-text-d">
+                                                3 to 5 year(s)
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="dead-text">
+                                    <div class="dead-text-s">Deadline:&nbsp;</div>
+                                    <div class="dead-text-d">
+                                        <strong>Mar 15, </strong>2018
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div class="col-md-12">
+            <div class="norm-jobs-wrapper" onclick="DivOpen('id=751507&fcatId=8&ln=1');">
+                <div class="row">
+
+                    <div class="col-sm-3 col-sm-push-3">
+                        <!--<div class="row">
+                                <div class="col-sm-12">
+                                    <div class="comp_logo"><img src="images/38951.jpg" alt=""></div>
+                                </div>
+                            </div>-->
+                            
+                            
+                    </div>
+                    <div class="col-sm-9 col-sm-pull-9">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="comp-name-text">Ultimo IT Solutions</div>
+                            </div>
+                            <div class="col-sm-12">
+                                <div class="job-title-text">
+                                    <a onclick="clickJObTitle()" target="_blank" href="jobdetails.asp?id=751507&fcatId=8&ln=1">
+                                        Web Developer
+                                    </a>
+                                </div>
+                            </div>
+                            
+                             
+                            <div class="col-sm-12">
+                                <div class="edu-text">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="edu-text-s">
+                                                Education:
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-10">
+                                            <div class="edu-text-d">
+                                                Minimum graduate on Computer science/ CSE. IT background is preferred.
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            
+                        </div>
+                    </div>
+                    <div class="col-sm-12">
+                        <div class="row">
+                            <div class="col-sm-9">
+                                <div class="exp-text">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="exp-text-s">Experience:</div>
+                                        </div>
+                                        <div class="col-sm-10">
+                                            <div class="exp-text-d">
+                                                3 to 5 year(s)
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="dead-text">
+                                    <div class="dead-text-s">Deadline:&nbsp;</div>
+                                    <div class="dead-text-d">
+                                        <strong>Mar 10, </strong>2018
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div class="col-md-12">
+            <div class="norm-jobs-wrapper" onclick="DivOpen('id=752273&fcatId=8&ln=1');">
+                <div class="row">
+
+                    <div class="col-sm-3 col-sm-push-3">
+                        <!--<div class="row">
+                                <div class="col-sm-12">
+                                    <div class="comp_logo"><img src="images/38951.jpg" alt=""></div>
+                                </div>
+                            </div>-->
+                            
+                            
+                    </div>
+                    <div class="col-sm-9 col-sm-pull-9">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="comp-name-text">Monstar Lab Bangladesh Ltd.</div>
+                            </div>
+                            <div class="col-sm-12">
+                                <div class="job-title-text">
+                                    <a onclick="clickJObTitle()" target="_blank" href="jobdetails.asp?id=752273&fcatId=8&ln=1">
+                                        Devops Infra Engineer
+                                    </a>
+                                </div>
+                            </div>
+                            
+                             
+                            <div class="col-sm-12">
+                                <div class="edu-text">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="edu-text-s">
+                                                Education:
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-10">
+                                            <div class="edu-text-d">
+                                                A bachelor`s degree in Computer Science/Engineering/Applied Physics, Electronics & ...
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            
+                        </div>
+                    </div>
+                    <div class="col-sm-12">
+                        <div class="row">
+                            <div class="col-sm-9">
+                                <div class="exp-text">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="exp-text-s">Experience:</div>
+                                        </div>
+                                        <div class="col-sm-10">
+                                            <div class="exp-text-d">
+                                                1 to 4 year(s)
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="dead-text">
+                                    <div class="dead-text-s">Deadline:&nbsp;</div>
+                                    <div class="dead-text-d">
+                                        <strong>Mar 12, </strong>2018
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div class="col-md-12">
+            <div class="norm-jobs-wrapper" onclick="DivOpen('id=752278&fcatId=8&ln=1');">
+                <div class="row">
+
+                    <div class="col-sm-3 col-sm-push-3">
+                        <!--<div class="row">
+                                <div class="col-sm-12">
+                                    <div class="comp_logo"><img src="images/38951.jpg" alt=""></div>
+                                </div>
+                            </div>-->
+                            
+                            
+                    </div>
+                    <div class="col-sm-9 col-sm-pull-9">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="comp-name-text">Paragon Group</div>
+                            </div>
+                            <div class="col-sm-12">
+                                <div class="job-title-text">
+                                    <a onclick="clickJObTitle()" target="_blank" href="jobdetails.asp?id=752278&fcatId=8&ln=1">
+                                        Officer/ Asst. Officer
+                                    </a>
+                                </div>
+                            </div>
+                            
+                             
+                            <div class="col-sm-12">
+                                <div class="edu-text">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="edu-text-s">
+                                                Education:
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-10">
+                                            <div class="edu-text-d">
+                                                MBA (Finance)
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            
+                        </div>
+                    </div>
+                    <div class="col-sm-12">
+                        <div class="row">
+                            <div class="col-sm-9">
+                                <div class="exp-text">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="exp-text-s">Experience:</div>
+                                        </div>
+                                        <div class="col-sm-10">
+                                            <div class="exp-text-d">
+                                                3 to 6 year(s)
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="dead-text">
+                                    <div class="dead-text-s">Deadline:&nbsp;</div>
+                                    <div class="dead-text-d">
+                                        <strong>Feb 22, </strong>2018
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div class="col-md-12">
+            <div class="sout-jobs-wrapper" onclick="DivOpen('id=752255&fcatId=8&ln=3');">
+                <div class="row">
+
+                    <div class="col-sm-3 col-sm-push-3">
+                        <!--<div class="row">
+                                <div class="col-sm-12">
+                                    <div class="comp_logo"><img src="images/38951.jpg" alt=""></div>
+                                </div>
+                            </div>-->
+                            
+                            
+                    </div>
+                    <div class="col-sm-9 col-sm-pull-9">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="comp-name-text">IT Grow Division Ltd.</div>
+                            </div>
+                            <div class="col-sm-12">
+                                <div class="job-title-text">
+                                    <a onclick="clickJObTitle()" target="_blank" href="jobdetails.asp?id=752255&fcatId=8&ln=3">
+                                        C# Programmer
+                                    </a>
+                                </div>
+                            </div>
+                            
+                             
+                            <div class="col-sm-12">
+                                <div class="edu-text">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="edu-text-s">
+                                                Education:
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-10">
+                                            <div class="edu-text-d">
+                                                Bachelor Degree from reputable Academic/ University (related major); with good CGPA
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            
+                        </div>
+                    </div>
+                    <div class="col-sm-12">
+                        <div class="row">
+                            <div class="col-sm-9">
+                                <div class="exp-text">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="exp-text-s">Experience:</div>
+                                        </div>
+                                        <div class="col-sm-10">
+                                            <div class="exp-text-d">
+                                                At least 1 year(s)
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="dead-text">
+                                    <div class="dead-text-s">Deadline:&nbsp;</div>
+                                    <div class="dead-text-d">
+                                        <strong>Mar 12, </strong>2018
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div class="col-md-12">
+            <div class="sout-jobs-wrapper" onclick="DivOpen('id=752252&fcatId=8&ln=3');">
+                <div class="row">
+
+                    <div class="col-sm-3 col-sm-push-3">
+                        <!--<div class="row">
+                                <div class="col-sm-12">
+                                    <div class="comp_logo"><img src="images/38951.jpg" alt=""></div>
+                                </div>
+                            </div>-->
+                            
+                            
+                    </div>
+                    <div class="col-sm-9 col-sm-pull-9">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="comp-name-text">IT Grow Division Ltd.</div>
+                            </div>
+                            <div class="col-sm-12">
+                                <div class="job-title-text">
+                                    <a onclick="clickJObTitle()" target="_blank" href="jobdetails.asp?id=752252&fcatId=8&ln=3">
+                                        React JS/ Native programmer
+                                    </a>
+                                </div>
+                            </div>
+                            
+                             
+                            <div class="col-sm-12">
+                                <div class="edu-text">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="edu-text-s">
+                                                Education:
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-10">
+                                            <div class="edu-text-d">
+                                                Bachelor Degree from reputable Academic/ University (related major); with good CGPA
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            
+                        </div>
+                    </div>
+                    <div class="col-sm-12">
+                        <div class="row">
+                            <div class="col-sm-9">
+                                <div class="exp-text">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="exp-text-s">Experience:</div>
+                                        </div>
+                                        <div class="col-sm-10">
+                                            <div class="exp-text-d">
+                                                At least 1 year(s)
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="dead-text">
+                                    <div class="dead-text-s">Deadline:&nbsp;</div>
+                                    <div class="dead-text-d">
+                                        <strong>Mar 12, </strong>2018
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div class="col-md-12">
+            <div class="norm-jobs-wrapper" onclick="DivOpen('id=751988&fcatId=8&ln=3');">
+                <div class="row">
+
+                    <div class="col-sm-3 col-sm-push-3">
+                        <!--<div class="row">
+                                <div class="col-sm-12">
+                                    <div class="comp_logo"><img src="images/38951.jpg" alt=""></div>
+                                </div>
+                            </div>-->
+                            
+                            
+                    </div>
+                    <div class="col-sm-9 col-sm-pull-9">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="comp-name-text">OROCUBE TECH</div>
+                            </div>
+                            <div class="col-sm-12">
+                                <div class="job-title-text">
+                                    <a onclick="clickJObTitle()" target="_blank" href="jobdetails.asp?id=751988&fcatId=8&ln=3">
+                                        Java Software Engineer
+                                    </a>
+                                </div>
+                            </div>
+                            
+                             
+                            <div class="col-sm-12">
+                                <div class="edu-text">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="edu-text-s">
+                                                Education:
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-10">
+                                            <div class="edu-text-d">
+                                                N/A
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            
+                        </div>
+                    </div>
+                    <div class="col-sm-12">
+                        <div class="row">
+                            <div class="col-sm-9">
+                                <div class="exp-text">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="exp-text-s">Experience:</div>
+                                        </div>
+                                        <div class="col-sm-10">
+                                            <div class="exp-text-d">
+                                                At least 1 year(s)
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="dead-text">
+                                    <div class="dead-text-s">Deadline:&nbsp;</div>
+                                    <div class="dead-text-d">
+                                        <strong>Feb 28, </strong>2018
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div class="col-md-12">
+            <div class="norm-jobs-wrapper" onclick="DivOpen('id=752238&fcatId=8&ln=1');">
+                <div class="row">
+
+                    <div class="col-sm-3 col-sm-push-3">
+                        <!--<div class="row">
+                                <div class="col-sm-12">
+                                    <div class="comp_logo"><img src="images/38951.jpg" alt=""></div>
+                                </div>
+                            </div>-->
+                            
+                            
+                    </div>
+                    <div class="col-sm-9 col-sm-pull-9">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="comp-name-text">Uttara IT Zone</div>
+                            </div>
+                            <div class="col-sm-12">
+                                <div class="job-title-text">
+                                    <a onclick="clickJObTitle()" target="_blank" href="jobdetails.asp?id=752238&fcatId=8&ln=1">
+                                        .Net Developer
+                                    </a>
+                                </div>
+                            </div>
+                            
+                             
+                            <div class="col-sm-12">
+                                <div class="edu-text">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="edu-text-s">
+                                                Education:
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-10">
+                                            <div class="edu-text-d">
+                                                B.Sc. in Computer Science & Engineering from any renowned university(Educational qualification may ...
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            
+                        </div>
+                    </div>
+                    <div class="col-sm-12">
+                        <div class="row">
+                            <div class="col-sm-9">
+                                <div class="exp-text">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="exp-text-s">Experience:</div>
+                                        </div>
+                                        <div class="col-sm-10">
+                                            <div class="exp-text-d">
+                                                At least 3 year(s)
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="dead-text">
+                                    <div class="dead-text-s">Deadline:&nbsp;</div>
+                                    <div class="dead-text-d">
+                                        <strong>Mar 15, </strong>2018
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div class="col-md-12">
+            <div class="norm-jobs-wrapper" onclick="DivOpen('id=752236&fcatId=8&ln=1');">
+                <div class="row">
+
+                    <div class="col-sm-3 col-sm-push-3">
+                        <!--<div class="row">
+                                <div class="col-sm-12">
+                                    <div class="comp_logo"><img src="images/38951.jpg" alt=""></div>
+                                </div>
+                            </div>-->
+                            
+                            
+                    </div>
+                    <div class="col-sm-9 col-sm-pull-9">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="comp-name-text">Swosti Limited</div>
+                            </div>
+                            <div class="col-sm-12">
+                                <div class="job-title-text">
+                                    <a onclick="clickJObTitle()" target="_blank" href="jobdetails.asp?id=752236&fcatId=8&ln=1">
+                                        Java Programmer
+                                    </a>
+                                </div>
+                            </div>
+                            
+                             
+                            <div class="col-sm-12">
+                                <div class="edu-text">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="edu-text-s">
+                                                Education:
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-10">
+                                            <div class="edu-text-d">
+                                                Graduation / Masters preferably in CSE, Mathematics, Physics, Accounting from any reputed ...
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            
+                        </div>
+                    </div>
+                    <div class="col-sm-12">
+                        <div class="row">
+                            <div class="col-sm-9">
+                                <div class="exp-text">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="exp-text-s">Experience:</div>
+                                        </div>
+                                        <div class="col-sm-10">
+                                            <div class="exp-text-d">
+                                                2 to 3 year(s)
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="dead-text">
+                                    <div class="dead-text-s">Deadline:&nbsp;</div>
+                                    <div class="dead-text-d">
+                                        <strong>Feb 28, </strong>2018
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div class="col-md-12">
+            <div class="norm-jobs-wrapper" onclick="DivOpen('id=752234&fcatId=8&ln=1');">
+                <div class="row">
+
+                    <div class="col-sm-3 col-sm-push-3">
+                        <!--<div class="row">
+                                <div class="col-sm-12">
+                                    <div class="comp_logo"><img src="images/38951.jpg" alt=""></div>
+                                </div>
+                            </div>-->
+                            
+                            
+                    </div>
+                    <div class="col-sm-9 col-sm-pull-9">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="comp-name-text">Swosti Limited</div>
+                            </div>
+                            <div class="col-sm-12">
+                                <div class="job-title-text">
+                                    <a onclick="clickJObTitle()" target="_blank" href="jobdetails.asp?id=752234&fcatId=8&ln=1">
+                                        Mobile Apps Developer (Android)
+                                    </a>
+                                </div>
+                            </div>
+                            
+                             
+                            <div class="col-sm-12">
+                                <div class="edu-text">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="edu-text-s">
+                                                Education:
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-10">
+                                            <div class="edu-text-d">
+                                                Graduation / Masters preferably in CSE, Mathematics, Physics, Accounting from any reputed ...
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            
+                        </div>
+                    </div>
+                    <div class="col-sm-12">
+                        <div class="row">
+                            <div class="col-sm-9">
+                                <div class="exp-text">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="exp-text-s">Experience:</div>
+                                        </div>
+                                        <div class="col-sm-10">
+                                            <div class="exp-text-d">
+                                                At least 2 year(s)
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="dead-text">
+                                    <div class="dead-text-s">Deadline:&nbsp;</div>
+                                    <div class="dead-text-d">
+                                        <strong>Feb 28, </strong>2018
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div class="col-md-12">
+            <div class="norm-jobs-wrapper" onclick="DivOpen('id=752188&fcatId=8&ln=1');">
+                <div class="row">
+
+                    <div class="col-sm-3 col-sm-push-3">
+                        <!--<div class="row">
+                                <div class="col-sm-12">
+                                    <div class="comp_logo"><img src="images/38951.jpg" alt=""></div>
+                                </div>
+                            </div>-->
+                            
+                            
+                    </div>
+                    <div class="col-sm-9 col-sm-pull-9">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="comp-name-text">The Zero One Solution</div>
+                            </div>
+                            <div class="col-sm-12">
+                                <div class="job-title-text">
+                                    <a onclick="clickJObTitle()" target="_blank" href="jobdetails.asp?id=752188&fcatId=8&ln=1">
+                                        Content Writer Cum Pricing Analyst
+                                    </a>
+                                </div>
+                            </div>
+                            
+                             
+                            <div class="col-sm-12">
+                                <div class="edu-text">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="edu-text-s">
+                                                Education:
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-10">
+                                            <div class="edu-text-d">
+                                                Minimum Graduation (CSE / BBA Preferable)
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            
+                        </div>
+                    </div>
+                    <div class="col-sm-12">
+                        <div class="row">
+                            <div class="col-sm-9">
+                                <div class="exp-text">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="exp-text-s">Experience:</div>
+                                        </div>
+                                        <div class="col-sm-10">
+                                            <div class="exp-text-d">
+                                                Na
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="dead-text">
+                                    <div class="dead-text-s">Deadline:&nbsp;</div>
+                                    <div class="dead-text-d">
+                                        <strong>Mar 15, </strong>2018
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div class="col-md-12">
+            <div class="norm-jobs-wrapper" onclick="DivOpen('id=752232&fcatId=8&ln=1');">
+                <div class="row">
+
+                    <div class="col-sm-3 col-sm-push-3">
+                        <!--<div class="row">
+                                <div class="col-sm-12">
+                                    <div class="comp_logo"><img src="images/38951.jpg" alt=""></div>
+                                </div>
+                            </div>-->
+                            
+                            
+                    </div>
+                    <div class="col-sm-9 col-sm-pull-9">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="comp-name-text">Transcom Limited</div>
+                            </div>
+                            <div class="col-sm-12">
+                                <div class="job-title-text">
+                                    <a onclick="clickJObTitle()" target="_blank" href="jobdetails.asp?id=752232&fcatId=8&ln=1">
+                                        Jr. System Analyst (Software, Web & Apps)
+                                    </a>
+                                </div>
+                            </div>
+                            
+                             
+                            <div class="col-sm-12">
+                                <div class="edu-text">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="edu-text-s">
+                                                Education:
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-10">
+                                            <div class="edu-text-d">
+                                                B.Sc in Computer Science & Engineering. or M.Sc in Computer Science & Engineering. or Equivalent ...
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            
+                        </div>
+                    </div>
+                    <div class="col-sm-12">
+                        <div class="row">
+                            <div class="col-sm-9">
+                                <div class="exp-text">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="exp-text-s">Experience:</div>
+                                        </div>
+                                        <div class="col-sm-10">
+                                            <div class="exp-text-d">
+                                                Na
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="dead-text">
+                                    <div class="dead-text-s">Deadline:&nbsp;</div>
+                                    <div class="dead-text-d">
+                                        <strong>Feb 17, </strong>2018
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div class="col-md-12">
+            <div class="norm-jobs-wrapper" onclick="DivOpen('id=752227&fcatId=8&ln=1');">
+                <div class="row">
+
+                    <div class="col-sm-3 col-sm-push-3">
+                        <!--<div class="row">
+                                <div class="col-sm-12">
+                                    <div class="comp_logo"><img src="images/38951.jpg" alt=""></div>
+                                </div>
+                            </div>-->
+                            
+                            
+                    </div>
+                    <div class="col-sm-9 col-sm-pull-9">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="comp-name-text">Southtech Limited</div>
+                            </div>
+                            <div class="col-sm-12">
+                                <div class="job-title-text">
+                                    <a onclick="clickJObTitle()" target="_blank" href="jobdetails.asp?id=752227&fcatId=8&ln=1">
+                                        Sr. Analyst Programmer (.Net Track)
+                                    </a>
+                                </div>
+                            </div>
+                            
+                             
+                            <div class="col-sm-12">
+                                <div class="edu-text">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="edu-text-s">
+                                                Education:
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-10">
+                                            <div class="edu-text-d">
+                                                Minimum B.Sc in Computer Science/Engineering from any reputed university preferably BUET.
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            
+                        </div>
+                    </div>
+                    <div class="col-sm-12">
+                        <div class="row">
+                            <div class="col-sm-9">
+                                <div class="exp-text">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="exp-text-s">Experience:</div>
+                                        </div>
+                                        <div class="col-sm-10">
+                                            <div class="exp-text-d">
+                                                At least 5 year(s)
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="dead-text">
+                                    <div class="dead-text-s">Deadline:&nbsp;</div>
+                                    <div class="dead-text-d">
+                                        <strong>Feb 25, </strong>2018
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div class="col-md-12">
+            <div class="norm-jobs-wrapper" onclick="DivOpen('id=752221&fcatId=8&ln=1');">
+                <div class="row">
+
+                    <div class="col-sm-3 col-sm-push-3">
+                        <!--<div class="row">
+                                <div class="col-sm-12">
+                                    <div class="comp_logo"><img src="images/38951.jpg" alt=""></div>
+                                </div>
+                            </div>-->
+                            
+                            
+                    </div>
+                    <div class="col-sm-9 col-sm-pull-9">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="comp-name-text">ONS Telecom (Bangladesh) Limited</div>
+                            </div>
+                            <div class="col-sm-12">
+                                <div class="job-title-text">
+                                    <a onclick="clickJObTitle()" target="_blank" href="jobdetails.asp?id=752221&fcatId=8&ln=1">
+                                        Technician/ Rigger
+                                    </a>
+                                </div>
+                            </div>
+                            
+                             
+                            <div class="col-sm-12">
+                                <div class="edu-text">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="edu-text-s">
+                                                Education:
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-10">
+                                            <div class="edu-text-d">
+                                                <ul><LI>H.S.C or equivalent. </LI><LI>Diploma in Electronics and Electrical.</LI><LI>Fresher are encourage to apply. </LI></ul>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            
+                        </div>
+                    </div>
+                    <div class="col-sm-12">
+                        <div class="row">
+                            <div class="col-sm-9">
+                                <div class="exp-text">
+                                    <div class="row">
+                                        <div class="col-sm-2">
+                                            <div class="exp-text-s">Experience:</div>
+                                        </div>
+                                        <div class="col-sm-10">
+                                            <div class="exp-text-d">
+                                                0 to 1 year(s)
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="dead-text">
+                                    <div class="dead-text-s">Deadline:&nbsp;</div>
+                                    <div class="dead-text-d">
+                                        <strong>Feb 20, </strong>2018
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+			<div class="col-md-12">
+
+            <div class="cont-pagination-wrapper">
+                <div class="row">
+                    <div class="col-sm-4">
+                        <div class="pagination" style="float:left; margin:2px 0px 0px 0px;">
+                            
+                            <ul>
+                                
+                                
+								<li><a href="javascript:void(0)" class="prevnext disablelink">« Previous</a></li>
+								
+									<li><a href="javascript:void(0)" class="prevnext disablelink">Next »</a></li>
+								
+                                
+                            </ul>
+                            
+                        </div>
+                    </div>
+
+                    <div class="col-sm-3">
+                        <div class="middle-pagination-div">
+                            <div style="float:left; margin:2px 0px 0px 0px;">Jobs per page&nbsp;</div>
+                            <div style="float:left;">
+                                <select onchange="setPerpageRecord(this.value);" name="cmbjobsPerPage" id="cmbjobsPerPageBottom">
+                                    <option  value="10" >10</option>
+                                    <option  value="20" >20</option>
+                                    <option  value="30" >30</option>
+                                    <option selected value="40" >40</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-5">
+                        <div id="bottomPagging" class="pagination" style="margin:0px 0px 0px 0px;">
+                            <ul> <li><h3>Pages :</h3> </li> 
+            <li><a class="currentpage">1</a></li>
+            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Training Box Start -->
+            <br />
+            <div id="afscontainer1" class="col-sm-12"></div>
+            <div class="col-sm-12">
+            
+					<div id="JobListing_Training" class="training_box_wrapper" style="background:#FFFFFF;">
+					
+    <div class="panel panel-default training details">
+        <div class="panel-heading">
+        	Courses from Bdjobs Training
+        	<span style="float:right;Color:red">Pay online and get 20% discount</span>
+        </div>
+        <div class="panel-body">
+            <div id="training-slider" class="carousel slide vertical" data-ride="carousel" data-interval="3000" data-pause="false">
+                <div class="carousel-inner" role="listbox">
+                        
+                        <div class="item active">
+                            <div class="row">
+                                
+                                    <div class="col-sm-6 pull-left">
+                                        <div class="training-title"><a href="http://bdjobstraining.com/trainingdetails.asp?TrainingId=91633&upcoming=0">Reporting Automation with Microsoft Excel</a></div>
+                                        <h4>
+                                            
+                                                No. of Classes/Sessions:&nbsp;Day Long
+                                            &nbsp;&nbsp;Course Duration:&nbsp;Friday, February 16, 2018
+                                        </h4>
+                                        <h4 class="class-shedule">
+                                            
+                                            &nbsp;
+											
+                                        </h4>
+                                    
+                                        <h4>
+                                            
+                                                Last Date of Reg:&nbsp;
+                                                 February 15, 2018
+                                        </h4>
+                                        <div class="training-details-link">
+                                            <a href="http://bdjobstraining.com/trainingdetails.asp?TrainingId=91633&upcoming=0" target="_blank"><i class="icon-angle-right-n"></i>&nbsp;Click here for detail</a>
+                                        </div>
+                                    </div>
+                                
+                                    <div class="col-sm-6 pull-right">
+                                        <div class="training-title"><a href="http://bdjobstraining.com/trainingdetails.asp?TrainingId=91633&upcoming=0">Business Intelligence with MS Excel 2016</a></div>
+                                        <h4>
+                                            
+                                                No. of Classes/Sessions:&nbsp;Day Long
+                                            &nbsp;&nbsp;Course Duration:&nbsp;16 - 17 February 2018
+                                        </h4>
+                                        <h4 class="class-shedule">
+                                            
+                                            &nbsp;
+											
+                                        </h4>
+                                    
+                                        <h4>
+                                            
+                                                Last Date of Reg:&nbsp;
+                                                 February 14, 2018
+                                        </h4>
+                                        <div class="training-details-link">
+                                            <a href="http://bdjobstraining.com/trainingdetails.asp?TrainingId=91656&upcoming=0" target="_blank"><i class="icon-angle-right-n"></i>&nbsp;Click here for detail</a>
+                                        </div>
+                                    </div>
+                                
+                            </div>
+                        </div>
+                        
+                        <div class="item">
+                            <div class="row">
+                                
+                                    <div class="col-sm-6 pull-left">
+                                        <div class="training-title"><a href="http://bdjobstraining.com/trainingdetails.asp?TrainingId=91788&upcoming=0">UX (User Experience) Design Process</a></div>
+                                        <h4>
+                                            
+                                                No. of Classes/Sessions:&nbsp;10 Sessions
+                                            &nbsp;&nbsp;Course Duration:&nbsp;18 February - 11 March 2018
+                                                &nbsp;&nbsp;Total Hours:&nbsp;30
+                                        </h4>
+                                        <h4 class="class-shedule">
+                                            
+                                                Class Schedule and Time:&nbsp;<br />Sunday, Tuesday and Thursday
+                                        </h4>
+                                    
+                                        <h4>
+                                            
+                                                Last Date of Reg:&nbsp;
+                                                 February 17, 2018
+                                        </h4>
+                                        <div class="training-details-link">
+                                            <a href="http://bdjobstraining.com/trainingdetails.asp?TrainingId=91788&upcoming=0" target="_blank"><i class="icon-angle-right-n"></i>&nbsp;Click here for detail</a>
+                                        </div>
+                                    </div>
+                                
+                                    <div class="col-sm-6 pull-right">
+                                        <div class="training-title"><a href="http://bdjobstraining.com/trainingdetails.asp?TrainingId=91788&upcoming=0">Freelancing with Graphic Design Skills</a></div>
+                                        <h4>
+                                            
+                                                No. of Classes/Sessions:&nbsp;15 sessions
+                                            &nbsp;&nbsp;Course Duration:&nbsp;18 February - 22 March 2018
+                                                &nbsp;&nbsp;Total Hours:&nbsp;45
+                                        </h4>
+                                        <h4 class="class-shedule">
+                                            
+                                                Class Schedule and Time:&nbsp;<br />Sunday, Tuesday and Thursday
+                                        </h4>
+                                    
+                                        <h4>
+                                            
+                                                Last Date of Reg:&nbsp;
+                                                 February 17, 2018
+                                        </h4>
+                                        <div class="training-details-link">
+                                            <a href="http://bdjobstraining.com/trainingdetails.asp?TrainingId=91825&upcoming=0" target="_blank"><i class="icon-angle-right-n"></i>&nbsp;Click here for detail</a>
+                                        </div>
+                                    </div>
+                                
+                            </div>
+                        </div>
+                        
+                        <div class="item">
+                            <div class="row">
+                                
+                                    <div class="col-sm-6 pull-left">
+                                        <div class="training-title"><a href="http://bdjobstraining.com/trainingdetails.asp?TrainingId=91771&upcoming=0">Motion Graphics Design Basics with Adobe After Effects</a></div>
+                                        <h4>
+                                            
+                                                No. of Classes/Sessions:&nbsp;6 Sessions
+                                            &nbsp;&nbsp;Course Duration:&nbsp;22 February - 6 March 2018
+                                                &nbsp;&nbsp;Total Hours:&nbsp;18
+                                        </h4>
+                                        <h4 class="class-shedule">
+                                            
+                                                Class Schedule and Time:&nbsp;<br />Sunday, Tuesday and Thursday
+                                        </h4>
+                                    
+                                        <h4>
+                                            
+                                                Last Date of Reg:&nbsp;
+                                                 February 21, 2018
+                                        </h4>
+                                        <div class="training-details-link">
+                                            <a href="http://bdjobstraining.com/trainingdetails.asp?TrainingId=91771&upcoming=0" target="_blank"><i class="icon-angle-right-n"></i>&nbsp;Click here for detail</a>
+                                        </div>
+                                    </div>
+                                
+                                    <div class="col-sm-6 pull-right">
+                                        <div class="training-title"><a href="http://bdjobstraining.com/trainingdetails.asp?TrainingId=91771&upcoming=0">Reporting Automation with Microsoft Excel</a></div>
+                                        <h4>
+                                            
+                                                No. of Classes/Sessions:&nbsp;Day Long
+                                            &nbsp;&nbsp;Course Duration:&nbsp;Friday, February 16, 2018
+                                        </h4>
+                                        <h4 class="class-shedule">
+                                            
+                                            &nbsp;
+											
+                                        </h4>
+                                    
+                                        <h4>
+                                            
+                                                Last Date of Reg:&nbsp;
+                                                 February 15, 2018
+                                        </h4>
+                                        <div class="training-details-link">
+                                            <a href="http://bdjobstraining.com/trainingdetails.asp?TrainingId=91633&upcoming=0" target="_blank"><i class="icon-angle-right-n"></i>&nbsp;Click here for detail</a>
+                                        </div>
+                                    </div>
+                                
+                            </div>
+                        </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div> 
+
+					</div>
+				
+            </div>
+            <!-- Training Box End -->
+            
+            
+
+        </div>
+        
+       
+
+    </div>
+</div>
+<!-- cj: 2/14/2018 1:00:01 PM --> 
+
+<div class="jgads">
+    
+    <div class="g-ba">
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="gbac">
+                    <body style='margin:0px 0px 0px 0px!important'><div id='owl-bottom' style='display:inline!important;'><div class='hot-product-deal-wrapper'><div class='hot-product-deal'><span class='percentage-span-new'><font class='percentage-amount-new'>১৬</font><font class='percentage-sign-new'>%</font><font class='percentage-discount-amount-new'>ছাড়</font></span><a onclick="ga('send', 'event', 'bdjobscategory', 'smallImage1.jpg')" href='https://ajkerdeal.com/product/591400/ladies-full-sleeve-sweater' target='_blank'><div class='crazy-deal' style='width: 100%;text-align: center;' ><img onload="ga('send', 'event', 'bdjobscategory', 'impression', 'smallImage1.jpg',2.00,{'nonInteraction': 1})" src='https://ajkerdeal-a.akamaihd.net/images/deals/154781001171504/smallImage1.jpg' alt='লেডিজ ফুল-স্লিভ সোয়েটার' style='width:175px;height: 150px;'></div><span class='price-text'>৳&nbsp;১,০৯৯</span></div></a></div><div class='hot-product-deal-wrapper'><div class='hot-product-deal'><span class='percentage-span-new'><font class='percentage-amount-new'>৫০</font><font class='percentage-sign-new'>%</font><font class='percentage-discount-amount-new'>ছাড়</font></span><a onclick="ga('send', 'event', 'bdjobscategory', 'smallImage1.jpg')" href='https://ajkerdeal.com/product/553909/bluetooth-earphone-1-pcs' target='_blank'><div class='crazy-deal' style='width: 100%;text-align: center;' ><img onload="ga('send', 'event', 'bdjobscategory', 'impression', 'smallImage1.jpg',2.00,{'nonInteraction': 1})" src='https://ajkerdeal-a.akamaihd.net/images/deals/64381511214618/smallImage1.jpg' alt='ব্লু-টুথ ইয়ারফোন (১টি)' style='width:175px;height: 150px;'></div><span class='price-text'>৳&nbsp;২৫০</span></div></a></div><div class='hot-product-deal-wrapper'><div class='hot-product-deal'><span class='percentage-span-new'><font class='percentage-amount-new'>২৯</font><font class='percentage-sign-new'>%</font><font class='percentage-discount-amount-new'>ছাড়</font></span><a onclick="ga('send', 'event', 'bdjobscategory', 'smallImage1.jpg')" href='https://ajkerdeal.com/product/545698/water-heater-1000-watt' target='_blank'><div class='crazy-deal' style='width: 100%;text-align: center;' ><img onload="ga('send', 'event', 'bdjobscategory', 'impression', 'smallImage1.jpg',2.00,{'nonInteraction': 1})" src='https://ajkerdeal-a.akamaihd.net/images/deals/196870311115100/smallImage1.jpg' alt='ওয়াটার হিটার (১০০০ ওয়াট)' style='width:175px;height: 150px;'></div><span class='price-text'>৳&nbsp;২৪৯</span></div></a></div><div class='hot-product-deal-wrapper'><div class='hot-product-deal'><span class='percentage-span-new'><font class='percentage-amount-new'>২১</font><font class='percentage-sign-new'>%</font><font class='percentage-discount-amount-new'>ছাড়</font></span><a onclick="ga('send', 'event', 'bdjobscategory', 'smallImage1.jpg')" href='https://ajkerdeal.com/product/590604/multi-color-gents-jacket' target='_blank'><div class='crazy-deal' style='width: 100%;text-align: center;' ><img onload="ga('send', 'event', 'bdjobscategory', 'impression', 'smallImage1.jpg',2.00,{'nonInteraction': 1})" src='https://ajkerdeal-a.akamaihd.net/images/deals/149150901212922/smallImage1.jpg' alt='মাল্টি কালার জেন্টস জ্যাকেট ' style='width:175px;height: 150px;'></div><span class='price-text'>৳&nbsp;৫৯৯</span></div></a></div><div class='hot-product-deal-wrapper'><div class='hot-product-deal'><span class='percentage-span-new'><font class='percentage-amount-new'>২৮</font><font class='percentage-sign-new'>%</font><font class='percentage-discount-amount-new'>ছাড়</font></span><a onclick="ga('send', 'event', 'bdjobscategory', 'smallImage1.jpg')" href='https://ajkerdeal.com/product/591546/gents-full-sleeve-sweater' target='_blank'><div class='crazy-deal' style='width: 100%;text-align: center;' ><img onload="ga('send', 'event', 'bdjobscategory', 'impression', 'smallImage1.jpg',2.00,{'nonInteraction': 1})" src='https://ajkerdeal-a.akamaihd.net/images/deals/38251001194842/smallImage1.jpg' alt='জেন্টস ফুল-স্লীভ সোয়েটার' style='width:175px;height: 150px;'></div><span class='price-text'>৳&nbsp;৩৯৯</span></div></a></div><div class='hot-product-deal-wrapper'><div class='hot-product-deal'><span class='percentage-span-new'><font class='percentage-amount-new'>৫১</font><font class='percentage-sign-new'>%</font><font class='percentage-discount-amount-new'>ছাড়</font></span><a onclick="ga('send', 'event', 'bdjobscategory', 'smallImage1.jpg')" href='https://ajkerdeal.com/product/592335/ladies-sleeveless-denim-jacket' target='_blank'><div class='crazy-deal' style='width: 100%;text-align: center;' ><img onload="ga('send', 'event', 'bdjobscategory', 'impression', 'smallImage1.jpg',2.00,{'nonInteraction': 1})" src='https://ajkerdeal-a.akamaihd.net/images/deals/167201201023936/smallImage1.jpg' alt='লেডিজ স্লিভলেস ডেনিম শার্ট' style='width:175px;height: 150px;'></div><span class='price-text'>৳&nbsp;৩৯৯</span></div></a></div><div class='hot-product-deal-wrapper'><div class='hot-product-deal'><span class='percentage-span-new'><font class='percentage-amount-new'>২৭</font><font class='percentage-sign-new'>%</font><font class='percentage-discount-amount-new'>ছাড়</font></span><a onclick="ga('send', 'event', 'bdjobscategory', 'smallImage1.jpg')" href='https://ajkerdeal.com/product/573899/full-sleeve-gents-hoodie' target='_blank'><div class='crazy-deal' style='width: 100%;text-align: center;' ><img onload="ga('send', 'event', 'bdjobscategory', 'impression', 'smallImage1.jpg',2.00,{'nonInteraction': 1})" src='https://ajkerdeal-a.akamaihd.net/images/deals/221521712155429/smallImage1.jpg' alt='ফুল স্লিভ জেন্টস হুডি ' style='width:175px;height: 150px;'></div><span class='price-text'>৳&nbsp;৫৫০</span></div></a></div><div class='hot-product-deal-wrapper'><div class='hot-product-deal'><span class='percentage-span-new'><font class='percentage-amount-new'>৩৩</font><font class='percentage-sign-new'>%</font><font class='percentage-discount-amount-new'>ছাড়</font></span><a onclick="ga('send', 'event', 'bdjobscategory', 'smallImage1.jpg')" href='https://ajkerdeal.com/product/588373/gents-full-sleeve-sweat-shirt' target='_blank'><div class='crazy-deal' style='width: 100%;text-align: center;' ><img onload="ga('send', 'event', 'bdjobscategory', 'impression', 'smallImage1.jpg',2.00,{'nonInteraction': 1})" src='https://ajkerdeal-a.akamaihd.net/images/deals/52320601211004/smallImage1.jpg' alt='জেন্টস ফুল স্লিভ সোয়েট শার্ট ' style='width:175px;height: 150px;'></div><span class='price-text'>৳&nbsp;৭৯৯</span></div></a></div><div class='hot-product-deal-wrapper'><div class='hot-product-deal'><span class='percentage-span-new'><font class='percentage-amount-new'>২৯</font><font class='percentage-sign-new'>%</font><font class='percentage-discount-amount-new'>ছাড়</font></span><a onclick="ga('send', 'event', 'bdjobscategory', 'smallImage1.jpg')" href='https://ajkerdeal.com/product/402424/mens-full-sleeve-denim-casual-shirt' target='_blank'><div class='crazy-deal' style='width: 100%;text-align: center;' ><img onload="ga('send', 'event', 'bdjobscategory', 'impression', 'smallImage1.jpg',2.00,{'nonInteraction': 1})" src='https://ajkerdeal-a.akamaihd.net/images/deals/119781601031715/smallImage1.jpg' alt='মেনজ ফুল স্লিভ ডেনিম ক্যাজুয়াল শার্ট' style='width:175px;height: 150px;'></div><span class='price-text'>৳&nbsp;৪৯৯</span></div></a></div><div class='hot-product-deal-wrapper'><div class='hot-product-deal'><span class='percentage-span-new'><font class='percentage-amount-new'>১৭</font><font class='percentage-sign-new'>%</font><font class='percentage-discount-amount-new'>ছাড়</font></span><a onclick="ga('send', 'event', 'bdjobscategory', 'smallImage1.jpg')" href='https://ajkerdeal.com/product/569741/anti-theft-backpack-including-usb-charging-port' target='_blank'><div class='crazy-deal' style='width: 100%;text-align: center;' ><img onload="ga('send', 'event', 'bdjobscategory', 'impression', 'smallImage1.jpg',2.00,{'nonInteraction': 1})" src='https://ajkerdeal-a.akamaihd.net/images/deals/118751112025129/smallImage1.jpg' alt='অ্যান্টি থেফট ব্যাকপ্যাক-USB চার্জিং পোর্টসহ' style='width:175px;height: 150px;'></div><span class='price-text'>৳&nbsp;২,০৫০</span></div></a></div><div class='hot-product-deal-wrapper'><div class='hot-product-deal'><span class='percentage-span-new'><font class='percentage-amount-new'>৩৪</font><font class='percentage-sign-new'>%</font><font class='percentage-discount-amount-new'>ছাড়</font></span><a onclick="ga('send', 'event', 'bdjobscategory', 'smallImage1.jpg')" href='https://ajkerdeal.com/product/589841/glacier-cardigan-red-copy' target='_blank'><div class='crazy-deal' style='width: 100%;text-align: center;' ><img onload="ga('send', 'event', 'bdjobscategory', 'impression', 'smallImage1.jpg',2.00,{'nonInteraction': 1})" src='https://ajkerdeal-a.akamaihd.net/images/deals/154020801212808/smallImage1.jpg' alt='Glacier (কপি) কার্ডিগান - Red' style='width:175px;height: 150px;'></div><span class='price-text'>৳&nbsp;৫৯০</span></div></a></div><div class='hot-product-deal-wrapper'><div class='hot-product-deal'><span class='percentage-span-new'><font class='percentage-amount-new'>২৪</font><font class='percentage-sign-new'>%</font><font class='percentage-discount-amount-new'>ছাড়</font></span><a onclick="ga('send', 'event', 'bdjobscategory', 'smallImage1.jpg')" href='https://ajkerdeal.com/product/591524/slim-fit-full-sleeve-cotton-jacket' target='_blank'><div class='crazy-deal' style='width: 100%;text-align: center;' ><img onload="ga('send', 'event', 'bdjobscategory', 'impression', 'smallImage1.jpg',2.00,{'nonInteraction': 1})" src='https://ajkerdeal-a.akamaihd.net/images/deals/233541001191833/smallImage1.jpg' alt='স্লিম ফিট ফুল স্লিভ কটন জ্যাকেট ' style='width:175px;height: 150px;'></div><span class='price-text'>৳&nbsp;৬৫০</span></div></a></div><div class='hot-product-deal-wrapper'><div class='hot-product-deal'><span class='percentage-span-new'><font class='percentage-amount-new'>৩১</font><font class='percentage-sign-new'>%</font><font class='percentage-discount-amount-new'>ছাড়</font></span><a onclick="ga('send', 'event', 'bdjobscategory', 'smallImage1.jpg')" href='https://ajkerdeal.com/product/151848/ladies-woolen-striped-sweater-black-03' target='_blank'><div class='crazy-deal' style='width: 100%;text-align: center;' ><img onload="ga('send', 'event', 'bdjobscategory', 'impression', 'smallImage1.jpg',2.00,{'nonInteraction': 1})" src='https://ajkerdeal-a.akamaihd.net/images/deals/67231311234907/smallImage1.jpg' alt='লেডিজ উলেন স্ট্রাইপড সোয়েটার - ব্ল্যাক' style='width:175px;height: 150px;'></div><span class='price-text'>৳&nbsp;৪৫০</span></div></a></div><div class='hot-product-deal-wrapper'><div class='hot-product-deal'><span class='percentage-span-new'><font class='percentage-amount-new'>৫১</font><font class='percentage-sign-new'>%</font><font class='percentage-discount-amount-new'>ছাড়</font></span><a onclick="ga('send', 'event', 'bdjobscategory', 'smallImage1.jpg')" href='https://ajkerdeal.com/product/569171/chinese-full-sleeve-chinese-cotton-hoodie' target='_blank'><div class='crazy-deal' style='width: 100%;text-align: center;' ><img onload="ga('send', 'event', 'bdjobscategory', 'impression', 'smallImage1.jpg',2.00,{'nonInteraction': 1})" src='https://ajkerdeal-a.akamaihd.net/images/deals/158011012021910/smallImage1.jpg' alt='জেন্টস ফুল স্লিভ চাইনিজ কটন হুডি' style='width:175px;height: 150px;'></div><span class='price-text'>৳&nbsp;৪৯৯</span></div></a></div><div class='hot-product-deal-wrapper'><div class='hot-product-deal'><span class='percentage-span-new'><font class='percentage-amount-new'>৩৪</font><font class='percentage-sign-new'>%</font><font class='percentage-discount-amount-new'>ছাড়</font></span><a onclick="ga('send', 'event', 'bdjobscategory', 'smallImage1.jpg')" href='https://ajkerdeal.com/product/589830/glacier-cardigan-yellow-copy' target='_blank'><div class='crazy-deal' style='width: 100%;text-align: center;' ><img onload="ga('send', 'event', 'bdjobscategory', 'impression', 'smallImage1.jpg',2.00,{'nonInteraction': 1})" src='https://ajkerdeal-a.akamaihd.net/images/deals/154020801212055/smallImage1.jpg' alt='Glacier (কপি) কার্ডিগান - Yellow' style='width:175px;height: 150px;'></div><span class='price-text'>৳&nbsp;৫৯০</span></div></a></div><div class='hot-product-deal-wrapper'><div class='hot-product-deal'><span class='percentage-span-new'><font class='percentage-amount-new'>৫১</font><font class='percentage-sign-new'>%</font><font class='percentage-discount-amount-new'>ছাড়</font></span><a onclick="ga('send', 'event', 'bdjobscategory', 'smallImage1.jpg')" href='https://ajkerdeal.com/product/573153/mens-long-sleeve-hoody' target='_blank'><div class='crazy-deal' style='width: 100%;text-align: center;' ><img onload="ga('send', 'event', 'bdjobscategory', 'impression', 'smallImage1.jpg',2.00,{'nonInteraction': 1})" src='https://ajkerdeal-a.akamaihd.net/images/deals/171471512213203/smallImage1.jpg' alt='মেনজ লং-স্লীভ হুডি' style='width:175px;height: 150px;'></div><span class='price-text'>৳&nbsp;৪৯৯</span></div></a></div><div class='hot-product-deal-wrapper'><div class='hot-product-deal'><span class='percentage-span-new'><font class='percentage-amount-new'>২৬</font><font class='percentage-sign-new'>%</font><font class='percentage-discount-amount-new'>ছাড়</font></span><a onclick="ga('send', 'event', 'bdjobscategory', 'smallImage1.jpg')" href='https://ajkerdeal.com/product/578994/electric-hot-shower' target='_blank'><div class='crazy-deal' style='width: 100%;text-align: center;' ><img onload="ga('send', 'event', 'bdjobscategory', 'impression', 'smallImage1.jpg',2.00,{'nonInteraction': 1})" src='https://ajkerdeal-a.akamaihd.net/images/deals/125612512114827/smallImage1.jpg' alt='ইলেকট্রিক হট শাওয়ার' style='width:175px;height: 150px;'></div><span class='price-text'>৳&nbsp;১,১৯৯</span></div></a></div><div class='hot-product-deal-wrapper'><div class='hot-product-deal'><span class='percentage-span-new'><font class='percentage-amount-new'>৫০</font><font class='percentage-sign-new'>%</font><font class='percentage-discount-amount-new'>ছাড়</font></span><a onclick="ga('send', 'event', 'bdjobscategory', 'smallImage1.jpg')" href='https://ajkerdeal.com/product/589236/mens-check-print-cotton-sweater' target='_blank'><div class='crazy-deal' style='width: 100%;text-align: center;' ><img onload="ga('send', 'event', 'bdjobscategory', 'impression', 'smallImage1.jpg',2.00,{'nonInteraction': 1})" src='https://ajkerdeal-a.akamaihd.net/images/deals/219370801103851/smallImage1.jpg' alt='মেনজ চেক প্রিন্ট কটন সোয়েটার' style='width:175px;height: 150px;'></div><span class='price-text'>৳&nbsp;২৮০</span></div></a></div></div></body>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</div>
+<input type="hidden" id="bottomTotalRecord" name="bottomTotalRecord" value="22" />

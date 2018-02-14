@@ -931,7 +931,7 @@ function actionclose()
 
             
         <div class="col-md-12">
-            <div class="norm-jobs-wrapper" onclick="DivOpen('id=752278&fcatId=8&ln=1');">
+            <div class="norm-jobs-wrapper" onclick="DivOpen('id=752278&fcatId=8&ln=3');">
                 <div class="row">
 
                     <div class="col-sm-3 col-sm-push-3">
@@ -950,7 +950,7 @@ function actionclose()
                             </div>
                             <div class="col-sm-12">
                                 <div class="job-title-text">
-                                    <a onclick="clickJObTitle()" target="_blank" href="jobdetails.asp?id=752278&fcatId=8&ln=1">
+                                    <a onclick="clickJObTitle()" target="_blank" href="jobdetails.asp?id=752278&fcatId=8&ln=3">
                                         Officer/ Asst. Officer
                                     </a>
                                 </div>
@@ -1731,7 +1731,7 @@ function actionclose()
 
             
         <div class="col-md-12">
-            <div class="norm-jobs-wrapper" onclick="DivOpen('id=752221&fcatId=8&ln=1');">
+            <div class="norm-jobs-wrapper" onclick="DivOpen('id=752221&fcatId=8&ln=3');">
                 <div class="row">
 
                     <div class="col-sm-3 col-sm-push-3">
@@ -1750,7 +1750,7 @@ function actionclose()
                             </div>
                             <div class="col-sm-12">
                                 <div class="job-title-text">
-                                    <a onclick="clickJObTitle()" target="_blank" href="jobdetails.asp?id=752221&fcatId=8&ln=1">
+                                    <a onclick="clickJObTitle()" target="_blank" href="jobdetails.asp?id=752221&fcatId=8&ln=3">
                                         Technician/ Rigger
                                     </a>
                                 </div>
@@ -1926,30 +1926,7 @@ function actionclose()
                             <div class="row">
                                 
                                     <div class="col-sm-6 pull-left">
-                                        <div class="training-title"><a href="http://bdjobstraining.com/trainingdetails.asp?TrainingId=91788&upcoming=0">UX (User Experience) Design Process</a></div>
-                                        <h4>
-                                            
-                                                No. of Classes/Sessions:&nbsp;10 Sessions
-                                            &nbsp;&nbsp;Course Duration:&nbsp;18 February - 11 March 2018
-                                                &nbsp;&nbsp;Total Hours:&nbsp;30
-                                        </h4>
-                                        <h4 class="class-shedule">
-                                            
-                                                Class Schedule and Time:&nbsp;<br />Sunday, Tuesday and Thursday
-                                        </h4>
-                                    
-                                        <h4>
-                                            
-                                                Last Date of Reg:&nbsp;
-                                                 February 17, 2018
-                                        </h4>
-                                        <div class="training-details-link">
-                                            <a href="http://bdjobstraining.com/trainingdetails.asp?TrainingId=91788&upcoming=0" target="_blank"><i class="icon-angle-right-n"></i>&nbsp;Click here for detail</a>
-                                        </div>
-                                    </div>
-                                
-                                    <div class="col-sm-6 pull-right">
-                                        <div class="training-title"><a href="http://bdjobstraining.com/trainingdetails.asp?TrainingId=91788&upcoming=0">Freelancing with Graphic Design Skills</a></div>
+                                        <div class="training-title"><a href="http://bdjobstraining.com/trainingdetails.asp?TrainingId=91825&upcoming=0">Freelancing with Graphic Design Skills</a></div>
                                         <h4>
                                             
                                                 No. of Classes/Sessions:&nbsp;15 sessions
@@ -1968,6 +1945,29 @@ function actionclose()
                                         </h4>
                                         <div class="training-details-link">
                                             <a href="http://bdjobstraining.com/trainingdetails.asp?TrainingId=91825&upcoming=0" target="_blank"><i class="icon-angle-right-n"></i>&nbsp;Click here for detail</a>
+                                        </div>
+                                    </div>
+                                
+                                    <div class="col-sm-6 pull-right">
+                                        <div class="training-title"><a href="http://bdjobstraining.com/trainingdetails.asp?TrainingId=91825&upcoming=0">UX (User Experience) Design Process</a></div>
+                                        <h4>
+                                            
+                                                No. of Classes/Sessions:&nbsp;10 Sessions
+                                            &nbsp;&nbsp;Course Duration:&nbsp;18 February - 11 March 2018
+                                                &nbsp;&nbsp;Total Hours:&nbsp;30
+                                        </h4>
+                                        <h4 class="class-shedule">
+                                            
+                                                Class Schedule and Time:&nbsp;<br />Sunday, Tuesday and Thursday
+                                        </h4>
+                                    
+                                        <h4>
+                                            
+                                                Last Date of Reg:&nbsp;
+                                                 February 17, 2018
+                                        </h4>
+                                        <div class="training-details-link">
+                                            <a href="http://bdjobstraining.com/trainingdetails.asp?TrainingId=91788&upcoming=0" target="_blank"><i class="icon-angle-right-n"></i>&nbsp;Click here for detail</a>
                                         </div>
                                     </div>
                                 
@@ -2044,7 +2044,7 @@ function actionclose()
 
     </div>
 </div>
-<!-- cj: 2/14/2018 1:00:01 PM --> 
+<!-- cj: 2/14/2018 3:00:00 PM --> 
 
 <div class="jgads">
     

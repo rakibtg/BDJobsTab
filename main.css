@@ -1,3 +1,13 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    padding:0px;
+    margin: 0px;
+}
+.wallpaper {
+    height: 100%;
+}
+
 .gbac, .pagination, 
 .cont-pagination-wrapper, 
 .training_box_wrapper, .comp_logo {
